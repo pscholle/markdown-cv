@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pascoe Scholle's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Programmer, Personal Trainer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,9 +13,12 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Employed at [LASSO](https://www.lasso.de/) since September 2018.
 
-### Specialized in
+### Projects
+Machine learning
+Building CAE big-data processing framework.
+
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
@@ -40,6 +43,8 @@ __Trinity College, Cambridge__
 
 - Fellow
 
+## Programming Languages
+__go__ Exetensive experience
 
 
 ## Awards
